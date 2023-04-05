@@ -200,7 +200,7 @@
                 "link": "https://sk1er.club/mods/level_head"
             }
         ],
-        "categories": ["5;All PvP", "6;Recommended PvP"],
+        "categories": ["5;Vsichki PVP", "6;RecoM PvP"],
         "file": "Insomnia-1.0-REL.jar",
         "url": "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar",
         "forge_id": "insomnia",
